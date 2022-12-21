@@ -15,4 +15,4 @@ This bot was writen in July 2021.
 
 If you need, I can specify this bot for you.
 
-![](https://github.com/binSmile/Quality-feedback-bot/raw/master/screenshot.jpg)
+<img src="https://raw.githubusercontent.com/binSmile/Quality-feedback-bot/master/Screenshot.jpg" width="250">
